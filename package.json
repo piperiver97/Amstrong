@@ -1,0 +1,19 @@
+{
+  "name": "amstrong",
+  "version": "1.0.0",
+  "description": "<h1>Amstrong</h1>\r <h2>Enunciado:</h2>\r <p>Se quiere desarrollar un programa que determine si un número es un número de Amstrong. Un número de Amstrong es aquel que es igual a la suma de sus dígitos elevados a la potencia de su número de cifras.</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piperiver97/Amstrong.git"
+  },
+  "author": "Felipe Riveros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piperiver97/Amstrong/issues"
+  },
+  "homepage": "https://github.com/piperiver97/Amstrong#readme"
+}
