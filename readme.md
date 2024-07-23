@@ -6,3 +6,4 @@
 
 371 = 33 + 73 + 13 = 27 + 343 + 1 = 371
 <img src="./public//cap.png">
+![ac0fe7083c22aa51bf85b3ba7c8e588e](https://github.com/user-attachments/assets/458a076e-ea8e-4391-8bd2-c7a1a8560c70)
